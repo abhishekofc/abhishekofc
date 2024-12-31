@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **avipandey667@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/abhishekpandey-cs](www.linkedin.com/in/abhishekpandey-cs)
+- 📄 Know about my experiences www.linkedin.com/in/abhishekpandey-cs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

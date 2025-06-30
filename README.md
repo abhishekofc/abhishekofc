@@ -10,12 +10,14 @@
 - 🌱 I’m currently<br/> **Actively learning and deepening my expertise in DSA, Full Stack Web Development, and DevOps practices.**
 
 - 👯 I’m looking to collaborate on <br/>**Open Source Team Projects and promoting digital accessibility for all users.**
-- 
+  
 - 💬 Ask me about<br/> **Topics related to Data Structures, Frontend Development, and frameworks such as React.**
+  <br/>
 
 - 📫 How to reach me **avipandey667@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/abhishekpandey-cs](www.linkedin.com/in/abhishekpandey-cs)
+  <br/>
 
 - ⚡ Fun fact <br/>**To me, continuous curiosity and consistent effort are the foundations of technical excellence.**
 

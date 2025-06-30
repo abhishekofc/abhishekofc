@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **avipandey667@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/abhishekpandey-cs](www.linkedin.com/in/abhishekpandey-cs)
+- 📄 Know about my experiences (www.linkedin.com/in/abhishekpandey-cs)
   <br/>
 
 - ⚡ Fun fact <br/>**To me, continuous curiosity and consistent effort are the foundations of technical excellence.**

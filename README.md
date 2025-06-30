@@ -9,10 +9,8 @@
 
 - 🌱 I’m currently<br/> **Actively learning and deepening my expertise in DSA, Full Stack Web Development, and DevOps practices.**
 
-- 👯 I’m looking to collaborate on <br/>**Team Projects and Sharing Awareness around accessibility together!**
-
-- 🤝 I’m looking for help with<br/> **seeking opportunities to collaborate on projects to gain hands-on experience and enhance my skills.**
-
+- 👯 I’m looking to collaborate on <br/>**Open Source Team Projects and promoting digital accessibility for all users.**
+- 
 - 💬 Ask me about<br/> **Topics related to Data Structures, Frontend Development, and frameworks such as React.**
 
 - 📫 How to reach me **avipandey667@gmail.com**

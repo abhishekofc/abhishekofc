@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekofc" alt="abhishekofc" /></a> </p>
 
-- 🔭 I’m currently working towards <br/>**becoming a skilled and well-rounded software developer.**
+- 🔭 I’m currently working towards <br/>**Becoming a skilled and well-rounded Software Developer.**
 
-- 🌱 I’m currently **Actively learning and deepening my expertise in DSA, Full Stack Web Development, and DevOps practices.**
+- 🌱 I’m currently<br/> **Actively learning and deepening my expertise in DSA, Full Stack Web Development, and DevOps practices.**
 
-- 👯 I’m looking to collaborate on **Team Projects and Sharing Awareness around accessibility together!**
+- 👯 I’m looking to collaborate on <br/>**Team Projects and Sharing Awareness around accessibility together!**
 
-- 🤝 I’m looking for help with **seeking opportunities to collaborate on projects to gain hands-on experience and enhance my skills.**
+- 🤝 I’m looking for help with<br/> **seeking opportunities to collaborate on projects to gain hands-on experience and enhance my skills.**
 
-- 💬 Ask me about **Topics related to Data Structures, Frontend Development, and frameworks such as React.**
+- 💬 Ask me about<br/> **Topics related to Data Structures, Frontend Development, and frameworks such as React.**
 
 - 📫 How to reach me **avipandey667@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/abhishekpandey-cs](www.linkedin.com/in/abhishekpandey-cs)
 
-- ⚡ Fun fact **To me, continuous curiosity and consistent effort are the foundations of technical excellence.**
+- ⚡ Fun fact <br/>**To me, continuous curiosity and consistent effort are the foundations of technical excellence.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

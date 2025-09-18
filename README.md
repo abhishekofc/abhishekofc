@@ -92,13 +92,14 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishekofc&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=piyushvermaa&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekofc&theme=react&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushvermaa&theme=react&hide_border=false" alt="GitHub Streak" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekofc&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushvermaa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies

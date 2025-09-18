@@ -94,22 +94,22 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=piyushvermaa&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhishekofc&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushvermaa&theme=react&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekofc&theme=react&hide_border=false" alt="GitHub Streak" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushvermaa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekofc&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=piyushvermaa&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abhishekofc&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=piyushvermaa&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=abhishekofc&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/piyushvermaa/abhishekofc/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=piyushvermaa&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhishekofc&icon=0&color=0)](https://visitcount.itsvg.in)

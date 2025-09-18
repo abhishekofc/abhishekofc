@@ -108,8 +108,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhishekofc&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-![Snake animation](https://github.com/piyushvermaa/abhishekofc/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=piyushvermaa&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhishekofc&icon=0&color=0)](https://visitcount.itsvg.in)
